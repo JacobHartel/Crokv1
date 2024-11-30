@@ -1,0 +1,6 @@
+C:\Users\patri\source\repos\Crokv1\Crokv1\obj\Debug\net8.0-windows\Crokv1.Form1.resources
+C:\Users\patri\source\repos\Crokv1\Crokv1\obj\Debug\net8.0-windows\Crokv1.csproj.GenerateResource.cache
+C:\Users\patri\source\repos\Crokv1\Crokv1\obj\Debug\net8.0-windows\Crokv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\Crokv1\Crokv1\obj\Debug\net8.0-windows\Crokv1.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\Crokv1\Crokv1\obj\Debug\net8.0-windows\Crokv1.AssemblyInfo.cs
+C:\Users\patri\source\repos\Crokv1\Crokv1\obj\Debug\net8.0-windows\Crokv1.csproj.CoreCompileInputs.cache
