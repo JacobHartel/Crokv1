@@ -8,6 +8,8 @@ The main premise is a clipboard tool for your LLM
 
 You copy, then there will be a hotkey or simply hit a button in the icontray.
 
+I mostly want this to be an icon tray app, with a separate gui for changing hotkeys or prompt settings. 
+
 Could possibly become an extension to allow for context menu options to create more features in the prompt.
 
 Likely just an alert popup with the returned string.
